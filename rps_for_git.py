@@ -1,5 +1,5 @@
 # @Author AlisaBrouka
-
+# rock-paper-scissors game, playing in console, can accept arguments
 import sys
 import random
 from enum import Enum

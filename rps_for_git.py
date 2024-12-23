@@ -92,6 +92,7 @@ def rps(name = "PlayerOne"):
 
     return play_rps
 
+# needs argument name to start the file
 if __name__ == "__main__":
     import argparse
 

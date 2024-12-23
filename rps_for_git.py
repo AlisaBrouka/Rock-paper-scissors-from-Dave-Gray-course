@@ -1,3 +1,5 @@
+# @Author AlisaBrouka
+
 import sys
 import random
 from enum import Enum

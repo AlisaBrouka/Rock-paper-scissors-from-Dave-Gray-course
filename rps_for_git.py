@@ -47,6 +47,7 @@ def rps(name = "PlayerOne"):
             f"Computer chose: {str(RPS(computer)).replace("RPS.", "").title()}"
             )
 
+        # function in function
         def decide_winner(player, computer):
 
             nonlocal name
